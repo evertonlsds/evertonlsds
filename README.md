@@ -8,14 +8,12 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-  Me chamo <b> Everton Santos </b> 
+  ## Me chamo <b> Everton Santos </b> 
 </p>
 <a href="https://www.linkedin.com/in/everton-santos-899839214/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a><br />
-Moro em Salvador - Bahia - BR.<br />
-<br>
-E estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na <b> Estácio</b>.
+</a>
+
 <br />
 <br>
 
@@ -26,7 +24,7 @@ E estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na <b> Es
 <img align="right" alt="GIF" src="https://github.com/evertonlsds/evertonlsds/blob/main/WhatsApp_Image_2021-06-17_at_16.04.24-removebg-preview.png" width="400px" />
 
 - ✨ Meu principal interesse dentro do GitHub é crescer como desenvolvedor.
-- 💻 Estou cursando Desenvolvomento de Sistema Web Full Stack na Cubos Academy, e aprendendo coisas novas todos os dias;
+- 💻 Estou cursando Desenvolvomento de Sistema Web Full Stack na Cubos Academy, e ADS na Estácio 4º Semestre;
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 📚 Estou sempre disposto a aprender coisas novas, sem medo de errar;
 - 🕹️ Meus hobbies são: 
