@@ -23,7 +23,7 @@ E estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na <b> Es
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://github.com/evertonlsds/evertonlsds/blob/main/imagem.png" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/evertonlsds/evertonlsds/blob/main/Ativo%203.png" width="400px" />
 
 - ✨ Meu principal interesse dentro do GitHub é crescer como desenvolvedor.
 - 💻 Estou cursando desenvolvomento de sistema web full stack na Cubos Academy, e aprendendo coisas novas todos os dias;
