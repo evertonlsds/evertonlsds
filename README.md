@@ -51,9 +51,11 @@
  
  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evertonlsds&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=evertonlsds&layout=compact&langs_count=8&theme=blue"/>
-[![Linkedin Badge](https://img.shields.io/badge/-Everton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-santos-899839214/)](https://www.linkedin.com/in/everton-santos-899839214/) 
-[![Gmail Badge](https://img.shields.io/badge/-everton0102@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:everton0102@gmail.com)](mailto:everton0102@gmail.com)
+
 <div>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Everton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-santos-899839214/)](https://www.linkedin.com/in/everton-santos-899839214/) 
+[![Gmail Badge](https://img.shields.io/badge/-everton0102@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:everton0102@gmail.com)](mailto:everton0102@gmail.com)
   
   
 ## Total de Visitas no perfil 👀 <br>
