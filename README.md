@@ -15,7 +15,7 @@
   - Ler noticias, livros e assuntos ligados a tecnologia, gosto de estar por dentro dos assuntos;
   - Assistir filmes e jogar video game;
   - Ouvir muita música;
-- 📫 Se quiser pode enviar um email para everton0102@gmail.com;
+
 
 ## 🌱Atualmente, estou aprendendo ... e trabalhando 🛠️ com:
 
