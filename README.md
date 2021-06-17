@@ -40,18 +40,16 @@ E estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na <b> Es
 ## 🌱Atualmente, estou aprendendo ... e trabalhando 🛠️ com
 
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
- - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
  - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![React](https://img.shields.io/badge/-React-ff69b4)
- - ![React Native](https://img.shields.io/badge/-React%20Native-9cf)
  - ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
  - ![Express](https://img.shields.io/badge/-Express-yellow)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
- - ![TypeORM](https://img.shields.io/badge/-TypeORM%20-red)
- - ![Dart](https://img.shields.io/badge/-Dart%20-9cf)
- - ![Flutter](https://img.shields.io/badge/-Flutter-6699ff)
+ 
+ 
 
  
  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evertonlsds&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
