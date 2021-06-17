@@ -26,11 +26,10 @@ E estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na <b> Es
 <img align="right" alt="GIF" src="https://github.com/evertonlsds/evertonlsds/blob/main/WhatsApp_Image_2021-06-17_at_16.04.24-removebg-preview.png" width="400px" />
 
 - ✨ Meu principal interesse dentro do GitHub é crescer como desenvolvedor.
-- 💻 Estou cursando desenvolvomento de sistema web full stack na Cubos Academy, e aprendendo coisas novas todos os dias;
+- 💻 Estou cursando Desenvolvomento de Sistema Web Full Stack na Cubos Academy, e aprendendo coisas novas todos os dias;
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-- 👧🏻 Procuro sempre humanizar meus projetos, vizando sempre uma experiência muito rica de informações e aprendizados, para a evolução pessoal e comunitária dos usuários;
 - 📚 Estou sempre disposto a aprender coisas novas, sem medo de errar;
-- 👾 Meus hobbies são: 
+- 🕹️ Meus hobbies são: 
   - Me aprofundar e aprender cada vez mais sobre o mundo de Dev; 
   - Ler noticias, livros e assuntos ligados a tecnologia, gosto de estar por dentro dos assuntos;
   - Assistir filmes e jogar video game;
