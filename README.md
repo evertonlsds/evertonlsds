@@ -21,7 +21,7 @@ E estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na <b> Es
 
 <hr />
 
-## Sobre mim:
+## 👨🏾‍💻Sobre mim:
 
 <img align="right" alt="GIF" src="https://github.com/evertonlsds/evertonlsds/blob/main/WhatsApp_Image_2021-06-17_at_16.04.24-removebg-preview.png" width="400px" />
 
