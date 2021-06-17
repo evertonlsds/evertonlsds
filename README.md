@@ -1,12 +1,5 @@
 <h1 align="center"> 💻 Seja muito bem vindo(a) ao meu perfil! 💻</h1>
 
-<a href="https://www.linkedin.com/in/everton-santos-899839214/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-
-<br />
-<br>
-
 <hr />
 
 ## 👨🏾‍💻Sobre mim:
