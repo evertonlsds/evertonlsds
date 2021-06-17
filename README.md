@@ -1,15 +1,5 @@
 <h1 align="center"> 💻 Seja muito bem vindo(a) ao meu perfil! 💻</h1>
-<hr />
-</a><br />
-<p align="left" > 
-  <b>E aí galera!</b>
-</p>
-<a href="" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
-<p align="left" >
-  ## Me chamo <b> Everton Santos </b> 
-</p>
+
 <a href="https://www.linkedin.com/in/everton-santos-899839214/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
