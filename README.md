@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/evertonlsds/evertonlsds/blob/main/WhatsApp_Image_2021-06-17_at_16.04.24-removebg-preview.png" width="400px" />
 
 - ✨ Meu principal interesse dentro do GitHub é crescer como desenvolvedor.
-- 💻 Estou cursando Desenvolvimento de Sistemas Web Full Stack na Cubos Academy, e ADS na Estácio 4º Semestre;
+- 💻 Concluí o curso programação do zero Full Stack na Cubos Academy, e estou cursando ADS na Estácio 4º Semestre;
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 📚 Estou sempre disposto a aprender coisas novas, sem medo de errar;
 - 🕹️ Meus hobbies são: 
