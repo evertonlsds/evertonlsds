@@ -22,6 +22,7 @@
  - ![NextJS](https://img.shields.io/badge/-NextJS-blue)
  - ![Express](https://img.shields.io/badge/-Express-yellow)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
+ -  ![Java](https://img.shields.io/static/v1?label=&message=HTML5&color=silver) 
  
  
 
