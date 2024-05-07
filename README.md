@@ -8,13 +8,7 @@
 
 - ✨ Meu principal interesse dentro do GitHub é crescer como desenvolvedor.
 - 💻 Formado em Análise e Desenvolvimento de Sistemas pela Estácio;
-- 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-- 📚 Estou sempre disposto a aprender coisas novas, sem medo de errar;
-- 🕹️ Meus hobbies são: 
-  - Me aprofundar e aprender cada vez mais sobre o mundo de Dev; 
-  - Ler noticias, livros e assuntos ligados a tecnologia, gosto de estar por dentro dos assuntos;
-  - Assistir filmes e jogar video game;
-  - Ouvir muita música;
+
 
 
 ## 🌱Atualmente, estou aprendendo ... e trabalhando 🛠️ com:
